@@ -3,7 +3,6 @@ package com.example.movieapp.navigation.nav_graph
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
-import com.example.movieapp.navigation.authGraph
 
 const val AUTHENTICATION_GRAPH = "authentication_graph"
 const val ROOT_GRAPH = "root_graph"
